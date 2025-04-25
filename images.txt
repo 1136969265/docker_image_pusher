@@ -7,3 +7,4 @@ icepage/scw:latest
 xzxxn777/ddddocr:latest
 mzz2017/v2raya
 nolanhzy/pro:latest
+redis:latest
