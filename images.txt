@@ -1,6 +1,9 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+python:alpine3.19
+kasmweb/nginx:1.25.3
+--platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+mzzsfy/auto-proxy-pool
+icepage/scw:latest
+xzxxn777/ddddocr:latest
+mzz2017/v2raya
+nolanhzy/pro:latest
+redis:latest
