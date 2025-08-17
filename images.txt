@@ -7,4 +7,4 @@ xzxxn777/ddddocr:latest
 mzz2017/v2raya
 nolanhzy/pro:latest
 redis:latest
-mlikiowa/napcat-docker:latest
+mlikiowa/napcat-docker
